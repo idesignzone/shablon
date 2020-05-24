@@ -1,0 +1,47 @@
+.v-sidebar-menu.vsm_collapsed {
+  max-width: 70px !important;
+}
+.v-sidebar-menu .vsm--link_level-1 .vsm--icon {
+  height: 20px;
+  width: 20px;
+  background-color: transparent;
+}
+.v-sidebar-menu .vsm--toggle-btn {
+  order: -1 !important;
+}
+.v-sidebar-menu .vsm--toggle-btn {
+  text-align: right;
+  padding-right: 28px;
+}
+.v-sidebar-menu .vsm--icon {
+  margin-right: 14px;
+  margin-left: 14px;
+}
+.v-sidebar-menu .vsm--link_level-1.vsm--link_exact-active .vsm--icon, .v-sidebar-menu .vsm--link_level-1.vsm--link_active .vsm--icon {
+  background-color: transparent;
+}
+.vsm--mobile-item {
+  max-width: 260px;
+}
+.v-sidebar-menu .vsm--link_level-1 .vsm--icon {
+  line-height: 18px;
+}
+/* width */
+#sidenav-main::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+#sidenav-main::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+#sidenav-main::-webkit-scrollbar-thumb {
+  background: #2dcecc;
+}
+
+/* Handle on hover */
+#sidenav-main::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

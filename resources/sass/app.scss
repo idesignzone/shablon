@@ -1,0 +1,54 @@
+@import '~sweetalert2/src/sweetalert2';
+
+// Bootstrap components
+@import "~bootstrap/scss/bootstrap";
+
+// Custom Core components
+@import "elements/functions";
+@import "elements/mixins";
+@import "variables";
+
+// Custom components
+@import "elements/reboot.scss";
+@import "elements/global.scss";
+@import "elements/utilities.scss";
+@import "elements/spacing.scss";
+@import "elements/accordion.scss";
+@import "elements/alerts.scss";
+@import "elements/avatars.scss";
+@import "elements/badge.scss";
+@import "elements/buttons.scss";
+@import "elements/card";
+@import "elements/carousel.scss";
+@import "elements/close.scss";
+@import "elements/custom-forms.scss";
+@import "elements/dropdown.scss";
+@import "elements/footer.scss";
+@import "elements/forms.scss";
+@import "elements/header.scss";
+@import "elements/grid.scss";
+@import "elements/icons.scss";
+@import "elements/input-group.scss";
+@import "elements/list-group.scss";
+@import "elements/modal.scss";
+@import "elements/nav.scss";
+@import "elements/navbar.scss";
+@import "elements/pagination.scss";
+@import "elements/popover.scss";
+@import "elements/progress.scss";
+@import "elements/section.scss";
+@import 'elements/sidebarMenu';
+@import 'elements/transitions';
+@import "elements/type.scss";
+@import "elements/table.scss";
+@import "elements/utilities.scss";
+
+// Dashboard components
+@import "dashboard/content.scss";
+
+// Vendor
+
+@import "elements/vendor/flatpickr.scss";
+@import "elements/vendor/headroom.scss";
+@import "elements/vendor/nouislider.scss";
+
