@@ -46,17 +46,17 @@
 </template>
 <script>
 export default {
-  data() {
+  data () {
     return {
       showIconsAnimation: false
-    };
+    }
   },
   methods: {
-    onScroll(evt) {
-      console.log(evt);
+    onScroll (evt) {
+      console.log(evt)
     }
   }
-};
+}
 </script>
 <style>
 </style>
