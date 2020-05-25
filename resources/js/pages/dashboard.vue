@@ -153,10 +153,6 @@
 <script>
 import { mapGetters } from 'vuex'
 
-// Charts
-import * as chartConfigs from '~/components/Charts/config'
-import LineChart from '~/components/Charts/LineChart'
-import BarChart from '~/components/Charts/BarChart'
 // Tables
 import SocialTrafficTable from '~/components/tables/SocialTrafficTable'
 import PageVisitsTable from '~/components/tables/PageVisitsTable'
@@ -168,8 +164,6 @@ import StatsCard from '~/components/Cards/StatsCard'
 export default {
   middleware: 'auth',
   components: {
-    LineChart,
-    BarChart,
     PageVisitsTable,
     SocialTrafficTable,
     ProjectsTable,
