@@ -154,9 +154,9 @@
 import { mapGetters } from 'vuex'
 
 // Tables
-import SocialTrafficTable from '~/components/tables/SocialTrafficTable'
-import PageVisitsTable from '~/components/tables/PageVisitsTable'
-import ProjectsTable from '~/components/tables/ProjectsTable'
+import SocialTrafficTable from '~/components/Tables/SocialTrafficTable'
+import PageVisitsTable from '~/components/Tables/PageVisitsTable'
+import ProjectsTable from '~/components/Tables/ProjectsTable'
 
 import BaseHeader from '~/components/BaseHeader'
 import StatsCard from '~/components/Cards/StatsCard'
