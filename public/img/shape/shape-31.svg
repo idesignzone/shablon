@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2550px" height="2492px" viewBox="0 0 2550 2492" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 41</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="61.3753435%" y1="15.7413542%" x2="71.1079657%" y2="89.7538183%" id="linearGradient-1">
+            <stop stop-color="#F9FCFF" offset="0%"></stop>
+            <stop stop-color="#FEF4E1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Main-Files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_index-Saas-Copy" transform="translate(0.000000, -2051.000000)" fill="url(#linearGradient-1)">
+            <g id="Our-Services" transform="translate(-47.000000, 1376.000000)">
+                <g id="Bg" transform="translate(0.000000, 675.000000)">
+                    <path d="M685,435 C845.002163,547.217317 1240.31457,646 1673,443 C2105.68543,240 2530,683 2530,1055 C2530,1374 2457.5,1478 2418.5,1519 C2190.41925,1758.7772 1988,1588 1703,1705 C1509.96112,1784.24754 1476,1902 1479,2036 C1482,2170 1620.54105,2384.42967 1924,2319.42967 C2227.45895,2254.42967 2270,2456 2454.5,2486 C2639,2516 2719.723,2429.77509 2861,2244 C2955.18467,2120.14994 2867.18467,1372.14994 2597,0 C1070.97335,9.67876707 220.973354,15.3454337 47,17 C10.4614109,17.3474987 -37,366 47,362 C131,358 425.5,253 685,435 Z" id="Path-41"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

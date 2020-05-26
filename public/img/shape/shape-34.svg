@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="77" viewBox="0 0 126 77">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #6c63ff;
+      }
+
+      .cls-1, .cls-9 {
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        fill: #e0e0e0;
+      }
+
+      .cls-8 {
+        fill: #f5f5f5;
+      }
+
+      .cls-10, .cls-9 {
+        fill: #69f0ae;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="60.5" y1="69" x2="60.5" gradientUnits="userSpaceOnUse">
+      <stop offset="NaN" stop-color="gray"/>
+      <stop offset="NaN" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="Infinity" stop-color="#NaNNaNNaN" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="9" y1="36.5" x2="50" y2="36.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect id="Rectangle" class="cls-1" x="21" y="9" width="105" height="68"/>
+  <rect id="Rectangle-2" data-name="Rectangle" class="cls-2" width="121" height="69"/>
+  <rect id="Rectangle-3" data-name="Rectangle" class="cls-3" x="1" y="10" width="118" height="58"/>
+  <rect id="Rectangle-4" data-name="Rectangle" class="cls-4" x="9" y="15" width="41" height="43"/>
+  <rect id="Rectangle-5" data-name="Rectangle" class="cls-5" x="11" y="16" width="39" height="41"/>
+  <path id="Path" class="cls-6" d="M267.477,1471.68c0.372-2.34-.611-4.67-1.568-6.84l-1.007-2.27v0.06a9.055,9.055,0,0,1-6.713,8.8v1.55a9.1,9.1,0,0,1,6.713,8.8V1486H247v-4.22a9.1,9.1,0,0,1,6.712-8.8v-1.55a9.132,9.132,0,0,1-1.267-17.16,3.536,3.536,0,0,1,2.915-3.26,11.358,11.358,0,0,1,.741-1.53,4.667,4.667,0,0,1,3.974-2.48,5.092,5.092,0,0,1,2.49.88,11.978,11.978,0,0,1,4.5,5.74,28.522,28.522,0,0,1,1.642,7.24C269.157,1464.54,269.31,1468.49,267.477,1471.68Z" transform="translate(-228 -1429)"/>
+  <rect id="Rectangle-6" data-name="Rectangle" class="cls-5" x="1" y="1" width="118" height="9"/>
+  <rect id="Rectangle-7" data-name="Rectangle" class="cls-7" x="64" y="28" width="45" height="3"/>
+  <rect id="Rectangle-8" data-name="Rectangle" class="cls-8" x="64" y="41" width="45" height="3"/>
+  <rect id="Rectangle-9" data-name="Rectangle" class="cls-1" x="65" y="34" width="26" height="3"/>
+  <rect id="Rectangle-10" data-name="Rectangle" class="cls-9" x="64" y="46" width="18" height="3"/>
+  <rect id="Rectangle-11" data-name="Rectangle" class="cls-10" x="86" y="46" width="18" height="3"/>
+</svg>

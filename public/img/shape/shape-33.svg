@@ -1,0 +1,96 @@
+<svg id="Icon_Illustration_Workflow" data-name="Icon/Illustration/Workflow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229" height="228" viewBox="0 0 229 228">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.4;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-7, .cls-8 {
+        filter: url(#filter);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #2196f3;
+        stroke-width: 4px;
+      }
+
+      .cls-10, .cls-13, .cls-3, .cls-4, .cls-5, .cls-6, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7 {
+        opacity: 0.21;
+      }
+
+      .cls-10, .cls-12, .cls-13, .cls-14, .cls-6, .cls-8, .cls-9 {
+        opacity: 0.5;
+      }
+
+      .cls-9 {
+        fill: #4d8af0;
+      }
+
+      .cls-10 {
+        fill: #fdd835;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #f55f44;
+      }
+
+      .cls-11 {
+        opacity: 0.49;
+      }
+
+      .cls-13, .cls-14 {
+        fill: #47e6b1;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Illustration_Icon" data-name="Illustration Icon">
+    <g id="Bg_Circle" data-name="Bg Circle" class="cls-1">
+      <g id="Group" class="cls-2">
+        <path id="Path" class="cls-3" d="M401.516,1428.73q-0.649-.39-1.305-0.75" transform="translate(-248 -1393)"/>
+        <path id="Path-2" data-name="Path" class="cls-4" d="M445.018,1534.4a97.6,97.6,0,0,0,2.858-23.52c0-34.16-17.548-64.07-43.821-80.62" transform="translate(-248 -1393)"/>
+        <path id="Path-3" data-name="Path" class="cls-3" d="M444.24,1537.36c0.139-.49.274-0.99,0.4-1.48" transform="translate(-248 -1393)"/>
+      </g>
+      <path id="Path-4" data-name="Path" class="cls-5" d="M324.667,1423A93.458,93.458,0,0,0,263,1511.06" transform="translate(-248 -1393)"/>
+      <path id="Path-5" data-name="Path" class="cls-6" d="M281.6,1567.82a92.549,92.549,0,0,0,118.439,25.9" transform="translate(-248 -1393)"/>
+      <g id="Group-2" data-name="Group" class="cls-7">
+        <path id="Path-6" data-name="Path" class="cls-3" d="M415.05,1529.69q0.231-.735.445-1.47" transform="translate(-248 -1393)"/>
+        <path id="Path-7" data-name="Path" class="cls-4" d="M393.264,1460.52a63,63,0,1,0,20.8,72.05" transform="translate(-248 -1393)"/>
+        <path id="Path-8" data-name="Path" class="cls-3" d="M395.642,1462.42c-0.388-.33-0.781-0.65-1.177-0.97" transform="translate(-248 -1393)"/>
+      </g>
+      <g id="Group-3" data-name="Group" class="cls-8">
+        <path id="Path-9" data-name="Path" class="cls-3" d="M351.673,1474.25c-0.517.05-1.034,0.11-1.551,0.19" transform="translate(-248 -1393)"/>
+        <path id="Path-10" data-name="Path" class="cls-4" d="M387.17,1527.07a35.187,35.187,0,0,0-.4-35.43,36.329,36.329,0,0,0-31.225-17.6h-0.905" transform="translate(-248 -1393)"/>
+        <path id="Path-11" data-name="Path" class="cls-3" d="M385.574,1529.61c0.29-.41.57-0.84,0.841-1.27" transform="translate(-248 -1393)"/>
+      </g>
+    </g>
+    <g>
+      <path id="Path-12" data-name="Path" class="cls-9" d="M455.177,1417.02a0.722,0.722,0,0,1,.133.08h0a0.681,0.681,0,0,1-.449,1.21h0l-0.151-.03a1.35,1.35,0,0,0-1.634.75,0.623,0.623,0,0,1-.075.14h0a0.692,0.692,0,0,1-.764.21,0.68,0.68,0,0,1-.441-0.66h0a0.613,0.613,0,0,1,.03-0.15,1.371,1.371,0,0,0-.752-1.65,0.649,0.649,0,0,1-.133-0.07h0a0.681,0.681,0,0,1,.449-1.21h0a0.4,0.4,0,0,1,.151.03,1.346,1.346,0,0,0,1.634-.76,0.868,0.868,0,0,1,.075-0.13h0a0.677,0.677,0,0,1,1.2.45h0a0.665,0.665,0,0,1-.03.15,1.355,1.355,0,0,0,.753,1.64h0Z" transform="translate(-248 -1393)"/>
+      <path id="Path-13" data-name="Path" class="cls-10" d="M268.212,1412.21h0a0.682,0.682,0,0,1-.449,1.21h0l-0.15-.03a1.341,1.341,0,0,0-1.635.75,0.552,0.552,0,0,1-.075.13h0a0.661,0.661,0,0,1-.764.21,0.67,0.67,0,0,1-.44-0.66h0a0.665,0.665,0,0,1,.03-0.15,1.359,1.359,0,0,0-.753-1.64,0.641,0.641,0,0,1-.132-0.07h0a0.691,0.691,0,0,1-.21-0.77,0.668,0.668,0,0,1,.658-0.44h0a0.4,0.4,0,0,1,.151.03,1.356,1.356,0,0,0,1.634-.76,0.522,0.522,0,0,1,.076-0.13h0a0.677,0.677,0,0,1,1.2.45h0a0.665,0.665,0,0,1-.03.15,1.354,1.354,0,0,0,.752,1.64A0.691,0.691,0,0,1,268.212,1412.21Z" transform="translate(-248 -1393)"/>
+      <path id="Path-14" data-name="Path" class="cls-10" d="M348.96,1525.64a0.683,0.683,0,0,1,.132.08h0a0.682,0.682,0,0,1-.448,1.21h0l-0.151-.03a1.34,1.34,0,0,0-1.634.75,0.876,0.876,0,0,1-.076.14h0a0.677,0.677,0,0,1-1.2-.46h0a0.665,0.665,0,0,1,.03-0.15,1.358,1.358,0,0,0-.752-1.64,0.649,0.649,0,0,1-.133-0.07h0a0.692,0.692,0,0,1-.209-0.77,0.682,0.682,0,0,1,.658-0.44h0a0.39,0.39,0,0,1,.15.03,1.357,1.357,0,0,0,1.635-.76,0.552,0.552,0,0,1,.075-0.13h0a0.678,0.678,0,0,1,1.2.45h0a0.728,0.728,0,0,1-.031.15,1.355,1.355,0,0,0,.753,1.64h0Z" transform="translate(-248 -1393)"/>
+      <circle id="Oval" class="cls-11" cx="16.078" cy="143.36" r="2.422"/>
+      <circle id="Oval-2" data-name="Oval" class="cls-12" cx="226.563" cy="116.94" r="2.438"/>
+      <path id="Oval-3" data-name="Oval" class="cls-9" d="M320.111,1618.55a2.436,2.436,0,1,1,2.436,2.45A2.436,2.436,0,0,1,320.111,1618.55Z" transform="translate(-248 -1393)"/>
+      <path id="Oval-4" data-name="Oval" class="cls-13" d="M248,1562.78a2.436,2.436,0,1,1,2.436,2.44A2.445,2.445,0,0,1,248,1562.78Z" transform="translate(-248 -1393)"/>
+      <path id="Oval-5" data-name="Oval" class="cls-13" d="M348.37,1395.45a2.437,2.437,0,1,1,2.436,2.44A2.439,2.439,0,0,1,348.37,1395.45Z" transform="translate(-248 -1393)"/>
+      <circle id="Oval-6" data-name="Oval" class="cls-14" cx="178.813" cy="220.655" r="2.438"/>
+    </g>
+  </g>
+</svg>

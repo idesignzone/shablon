@@ -97,7 +97,7 @@
     // Transparent navbar
 
     .navbar-transparent {
-        position: absolute;
+        position: absolute !important;
         top: 0;
         width: 100%;
         z-index: 100;

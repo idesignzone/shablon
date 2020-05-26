@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Icon Bg 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="23.9955357%" y2="15.6026786%" id="linearGradient-1">
+            <stop stop-color="#57FFCD" offset="0%"></stop>
+            <stop stop-color="#BAFFA4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M40,0.80952381 L40,0.80952381 C62.09139,0.80952381 80,18.7181338 80,40.8095238 L80,70.8095238 C80,76.3323713 75.5228475,80.8095238 70,80.8095238 L40,80.8095238 C17.90861,80.8095238 2.705415e-15,62.9009138 0,40.8095238 L0,40.8095238 C-2.705415e-15,18.7181338 17.90861,0.80952381 40,0.80952381 Z" id="path-2"></path>
+    </defs>
+    <g id="Main-Files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_index-Saas" transform="translate(-811.000000, -1436.000000)">
+            <g id="Our-Services" transform="translate(-364.000000, 1326.000000)">
+                <g id="Heading" transform="translate(790.000000, 109.000000)">
+                    <g id="Icon" transform="translate(385.000000, 0.000000)">
+                        <g id="Icon-Bg-1" transform="translate(0.000000, 0.190476)">
+                            <g id="Group">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                <path d="M33.7142857,2.71428571 L57.7142857,2.71428571 C62.1325637,2.71428571 65.7142857,6.29600772 65.7142857,10.7142857 L65.7142857,78.5238095 C65.7142857,82.9420875 62.1325637,86.5238095 57.7142857,86.5238095 L33.7142857,86.5238095 C29.2960077,86.5238095 25.7142857,82.9420875 25.7142857,78.5238095 L25.7142857,10.7142857 C25.7142857,6.29600772 29.2960077,2.71428571 33.7142857,2.71428571 Z" id="Rectangle-49" fill="#FFFFFF" opacity="0.267020089" mask="url(#mask-3)" transform="translate(45.714286, 44.619048) rotate(47.000000) translate(-45.714286, -44.619048) "></path>
+                                <path d="M31.8095238,-3 L55.8095238,-3 C60.2278018,-3 63.8095238,0.581722001 63.8095238,5 L63.8095238,81.3809524 C63.8095238,85.7992304 60.2278018,89.3809524 55.8095238,89.3809524 L31.8095238,89.3809524 C27.3912458,89.3809524 23.8095238,85.7992304 23.8095238,81.3809524 L23.8095238,5 C23.8095238,0.581722001 27.3912458,-3 31.8095238,-3 Z" id="Rectangle-50" fill-opacity="0.0285043025" fill="#000000" mask="url(#mask-3)" transform="translate(43.809524, 43.190476) rotate(-43.000000) translate(-43.809524, -43.190476) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="97px" viewBox="0 0 111 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>iconBg1/light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="65.1789125%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F7FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Main-Files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_index-Agency" transform="translate(-279.000000, -1406.000000)" fill="url(#linearGradient-1)">
+            <g id="What-We-Do" transform="translate(0.000000, 1118.000000)">
+                <g id="Block-1" transform="translate(279.000000, 288.000000)">
+                    <g id="Icon">
+                        <g id="iconBg1/light">
+                            <path d="M19.4845389,96.5236074 C-1.54639197,60.5559646 -5.55228357,39.4083227 7.46686411,33.0806819 C26.9955856,23.5892206 80.0736492,-36.3568508 106.111945,33.0806819 C123.470808,79.3723703 94.5950062,100.520012 19.4845389,96.5236074 Z" id="Path-6"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

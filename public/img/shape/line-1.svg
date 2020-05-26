@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="475.906" viewBox="0 0 744 475.906">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #acb7d5;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+        stroke-dasharray: 6 10;
+        fill-rule: evenodd;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <path id="SHape" class="cls-1" d="M21.317,1195V882.525c0-110.316,125.5-122.574,125.5-122.574H612.83C744,759.951,744,612.362,744,612.362V334.6c0-137.741-158.739-139.539-158.739-139.539H246.989C0,195.057,0-1,0-1" transform="translate(0 -5.094)"/>
+</svg>
