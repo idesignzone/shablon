@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.9" height="19.6" viewBox="0 0 20.9 19.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+        stroke: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1536.09" y1="5392.417" x2="1554.06" y2="5385.363" gradientUnits="userSpaceOnUse">
+      <stop offset="NaN" stop-color="#e4ffc9"/>
+      <stop offset="Infinity" stop-color="#56ff9d"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_48" data-name="Path 48" class="cls-1" d="M1552.78,5386.31l-14.4-5.53c-1.55-.6-2.53.24-2.2,1.86l2.65,12.83a1.848,1.848,0,0,0,3.08,1.25l11.19-7.65C1554.47,5388.14,1554.32,5386.9,1552.78,5386.31Z" transform="translate(-1534.63 -5379.09)"/>
+</svg>

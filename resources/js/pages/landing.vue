@@ -1,29 +1,27 @@
 <template>
   <div>
     <div class="position-relative">
-      <!-- shape Hero -->
       <section class="section-shaped my-0">
-        <div class="shape shape-style-1 shape-default shape-skew">
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
+        <div class="shape shape-style-1 shape-primary"> <!-- shape-default / shape-dark / shape-light -->
+          <span class="shape-1"></span>
+          <span class="shape-2"></span>
+          <span class="shape-3"></span>
+          <span class="shape-4"> </span>
+          <span class="shape-5"></span>
+          <span class="shape-6"></span>
+          <span class="shape-7"></span>
+          <span class="shape-8"></span>
+          <span class="shape-9"></span>
+          <span class="shape-10"></span>
         </div>
         <div class="container shape-container d-flex">
           <div class="col px-0">
             <div class="row">
               <div class="col-lg-6">
-                <h1 class="text-white">{{ title }}
-                  <span>{{ $t('you_are_logged_in') }}</span>
+                <h1 class="display-3 text-white">{{ title }}
+                  <span>Laravel-vue starter template</span>
                 </h1>
-                <p class="lead  text-white">The design system comes with four pre-built pages to help
-                  you get started faster. You can change the text and images and you're good to
-                  go.</p>
+                <p class="lead  text-white">Shablon template is based on Bootstrap latest version with fontawesome and valid HTML5, CSS3, SCSS.</p>
                 <div class="btn-wrapper">
                   <base-button tag="a"
                                href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
@@ -45,7 +43,6 @@
           </div>
         </div>
       </section>
-      <!-- 1st Hero Variation -->
       <section class="section section-lg pt-lg-0 mt--200">
         <div class="container">
           <div class="row justify-content-center">
@@ -53,51 +50,49 @@
               <div class="row row-grid">
                 <div class="col-lg-4">
                   <card class="border-0" hover shadow body-classes="py-5">
-                    <icon name="fa fa-gear" type="primary" rounded class="mb-4">
+                    <icon name="fab fa-laravel" type="warning" rounded class="mb-4">
                     </icon>
-                    <h6 class="text-primary text-uppercase">Download Argon</h6>
-                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap 4
-                      that includes the most important components and features.</p>
+                    <h4 class="text-warning text-uppercase">Laravel PHP Framework</h4>
+                    <p class="description mt-3">Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.</p>
                     <div>
-                      <badge type="primary" rounded>design</badge>
-                      <badge type="primary" rounded>system</badge>
-                      <badge type="primary" rounded>creative</badge>
+                      <badge type="warning" rounded>VueI18n</badge>
+                      <badge type="warning" rounded>ESlint</badge>
+                      <badge type="warning" rounded>sass-loader</badge>
                     </div>
-                    <base-button tag="a" href="#" type="primary" class="mt-4">
+                    <base-button tag="a" href="https://laravel.com/" target="_blank" type="warning" class="mt-4">
                       Learn more
                     </base-button>
                   </card>
                 </div>
                 <div class="col-lg-4">
                   <card class="border-0" hover shadow body-classes="py-5">
-                    <icon name="fa fa-gear" type="success" rounded class="mb-4">
+                    <icon name="fab fa-vuejs" type="success" rounded class="mb-4">
                     </icon>
-                    <h6 class="text-success text-uppercase">Build Something</h6>
-                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap
-                      4 that includes the most important components and features.</p>
+                    <h4 class="text-success text-uppercase">Vue.js JavaScript Framework</h4>
+                    <p class="description mt-3">Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.</p>
                     <div>
-                      <badge type="success" rounded>business</badge>
-                      <badge type="success" rounded>vision</badge>
-                      <badge type="success" rounded>success</badge>
+                      <badge type="success" rounded>VueRouter</badge>
+                      <badge type="success" rounded>Vuex</badge>
+                      <badge type="success" rounded>vuex</badge>
+                      <badge type="success" rounded>SPA</badge>
                     </div>
-                    <base-button tag="a" href="#" type="success" class="mt-4">
+                    <base-button tag="a" href="https://vuejs.org/" target="_blank" type="success" class="mt-4">
                       Learn more
                     </base-button>
                   </card>
                 </div>
                 <div class="col-lg-4">
                   <card class="border-0" hover shadow body-classes="py-5">
-                    <icon name="fa fa-gear" type="warning" rounded class="mb-4">
+                    <icon name="fab fa-bootstrap" type="primary" rounded class="mb-4">
                     </icon>
-                    <h6 class="text-warning text-uppercase">Prepare Launch</h6>
-                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap
-                      4 that includes the most important components and features.</p>
+                    <h4 class="text-primary text-uppercase">Bootstrap Front-end framework</h4>
+                    <p class="description mt-3">Bootstrap contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.</p>
                     <div>
-                      <badge type="warning" rounded>marketing</badge>
-                      <badge type="warning" rounded>product</badge>
-                      <badge type="warning" rounded>launch</badge>
+                      <badge type="primary" rounded>Font Awesome</badge>
+                      <badge type="primary" rounded>nouislider</badge>
+                      <badge type="primary" rounded>sweetalert</badge>
                     </div>
-                    <base-button tag="a" href="#" type="warning" class="mt-4">
+                    <base-button tag="a" href="https://getbootstrap.com/" target="_blank" type="primary" class="mt-4">
                       Learn more
                     </base-button>
                   </card>

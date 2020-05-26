@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="797.31" height="233.5" viewBox="0 0 797.31 233.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        stroke: #ced7ea;
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+        stroke-dasharray: 4 6;
+      }
+
+      .cls-2 {
+        stroke: #eceff8;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: #f2f4ff;
+      }
+    </style>
+  </defs>
+  <path id="Path_67" data-name="Path 67" class="cls-1" d="M380.614,4319c-32.266-197.41,59.623-208.87,143.595-208.87s470.923,114.72,551.311,105.46S1171,4081,1171,4081" transform="translate(-373.5 -4085.59)"/>
+  <path id="Path_70" data-name="Path 70" class="cls-2" d="M1162,4210c-14.32,30-52,30-52,30" transform="translate(-373.5 -4085.59)"/>
+  <path id="Path_71" data-name="Path 71" class="cls-3" d="M493,4161.15c-49.708-2.75-61,43.85-61,43.85" transform="translate(-373.5 -4085.59)"/>
+</svg>

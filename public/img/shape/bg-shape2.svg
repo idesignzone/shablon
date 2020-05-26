@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="77px" viewBox="0 0 76 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Icon bg 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="23.9955357%" y2="15.6026786%" id="linearGradient-1">
+            <stop stop-color="#FF9457" offset="0%"></stop>
+            <stop stop-color="#FFF5A4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M35,0 L35,0 C54.3299662,-3.55085719e-15 70,15.6700338 70,35 L70,62 C70,66.418278 66.418278,70 62,70 L35,70 C15.6700338,70 2.36723813e-15,54.3299662 0,35 L0,35 C-2.36723813e-15,15.6700338 15.6700338,3.55085719e-15 35,0 Z" id="path-2"></path>
+        <rect id="path-4" x="-2" y="-4" width="82" height="84"></rect>
+    </defs>
+    <g id="Main-Files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_index-Saas" transform="translate(-911.000000, -2861.000000)">
+            <g id="Features" transform="translate(-95.000000, 2332.000000)">
+                <g id="Block-1" transform="translate(39.000000, 461.000000)">
+                    <g id="Icon" transform="translate(967.000000, 69.000000)">
+                        <g id="Icon-bg-2">
+                            <g id="Group">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                <mask id="mask-5" fill="white">
+                                    <use xlink:href="#path-4"></use>
+                                </mask>
+                                <g id="Background"></g>
+                                <rect id="Rectangle-49" fill="#FFFFFF" opacity="0.267020089" mask="url(#mask-5)" transform="translate(39.532351, 37.831368) rotate(47.000000) translate(-39.532351, -37.831368) " x="22.0323509" y="1.33136762" width="35" height="73" rx="8"></rect>
+                                <rect id="Rectangle-50" fill-opacity="0.0285043025" fill="#000000" mask="url(#mask-5)" transform="translate(38.724478, 37.688511) rotate(-43.000000) translate(-38.724478, -37.688511) " x="21.2244779" y="-2.81148866" width="35" height="81" rx="8"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

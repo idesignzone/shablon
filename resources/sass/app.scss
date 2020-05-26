@@ -9,6 +9,7 @@
 @import "variables";
 
 // Custom components
+@import "elements/_animations.scss";
 @import "elements/reboot.scss";
 @import "elements/global.scss";
 @import "elements/utilities.scss";
@@ -36,8 +37,8 @@
 @import "elements/pagination.scss";
 @import "elements/popover.scss";
 @import "elements/progress.scss";
-@import "elements/section.scss";
 @import 'elements/sidebarMenu';
+@import 'elements/styles';
 @import 'elements/transitions';
 @import "elements/type.scss";
 @import "elements/table.scss";
@@ -45,6 +46,9 @@
 
 // Dashboard components
 @import "dashboard/content.scss";
+
+// Landing components
+@import "landing/section";
 
 // Vendor
 

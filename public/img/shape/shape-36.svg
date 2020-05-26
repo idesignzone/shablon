@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="46" viewBox="0 0 148 46">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #6c63ff;
+      }
+
+      .cls-1 {
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6 {
+        fill: #e0e0e0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="70.5" y1="40" x2="70.5" gradientUnits="userSpaceOnUse">
+      <stop offset="NaN" stop-color="gray"/>
+      <stop offset="NaN" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="Infinity" stop-color="#NaNNaNNaN" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="365.5" y1="1589" x2="365.5" y2="1561" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect id="Rectangle" class="cls-1" x="9" y="9" width="139" height="37"/>
+  <rect id="Rectangle-2" data-name="Rectangle" class="cls-2" width="141" height="40"/>
+  <rect id="Rectangle-3" data-name="Rectangle" class="cls-3" x="1" y="1" width="139" height="37"/>
+  <path id="Oval" class="cls-4" d="M352,1575a13.509,13.509,0,1,1,13.5,14A13.758,13.758,0,0,1,352,1575Z" transform="translate(-330 -1555)"/>
+  <circle id="Oval-2" data-name="Oval" class="cls-5" cx="35" cy="20" r="12"/>
+  <path id="Rectangle-4" data-name="Rectangle" class="cls-6" d="M390.235,1565.11h21.982v3.91H390.235v-3.91Z" transform="translate(-330 -1555)"/>
+  <path id="Rectangle-5" data-name="Rectangle" class="cls-6" d="M390.235,1572.53h60.544v3.9H390.235v-3.9Z" transform="translate(-330 -1555)"/>
+  <path id="Rectangle-6" data-name="Rectangle" class="cls-6" d="M390.235,1579.95h60.544v3.9H390.235v-3.9Z" transform="translate(-330 -1555)"/>
+  <path id="Path" class="cls-7" d="M374,1569.2l-2.726-2.2-7.186,9.94-4.009-3.23L358,1576.59l5.375,4.33,0.014-.02,1.36,1.1L374,1569.2h0Z" transform="translate(-330 -1555)"/>
+</svg>

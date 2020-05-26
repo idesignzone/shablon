@@ -31,11 +31,12 @@
 .section-shaped {
     margin: 180px 0;
     position: relative;
+    overflow: hidden;
 
     .stars-and-coded{
         margin-top: 8rem;
     }
-    
+
     .shape {
         position: absolute;
         top: 0;
@@ -49,36 +50,39 @@
 
         +.container {
             position: relative;
-            padding-top: 6rem;
-            padding-bottom: 0rem;
+            padding-top: 10rem;
+            padding-bottom: 16rem;
             height: 100%;
         }
 
-        &.shape-skew {
+      &.shape-skew {
 
-            +.container {
-                padding-top: 0;
+        +.container {
+          padding-top: 0;
 
-                .col {
-                    margin-top: -100px;
-                }
-            }
-
-            + .shape-container {
-                padding-top: 18rem;
-                padding-bottom: 19rem;
-            }
+          .col {
+            margin-top: -100px;
+          }
         }
+
+        + .shape-container {
+          padding-top: 18rem;
+          padding-bottom: 19rem;
+        }
+      }
+
+
     }
 
-    .shape-skew {
-        transform: skewY(-8deg);
-        transform-origin: 0;
+  .shape-skew {
+    transform: skewY(-8deg);
+    transform-origin: 0;
 
-        span {
-            transform: skew(8deg);
-        }
+    span {
+      transform: skew(8deg);
     }
+  }
+
 
     // Color variations
     .shape-primary {
@@ -210,68 +214,88 @@
         }
 
         :nth-child(1) {
-            left: -4%;
-            bottom: auto;
-            background: rgba(255, 255, 255, .1);
+          position: absolute;
+          animation: jump 8s infinite linear;
+          left: 3%;
+          bottom: auto;
+          background: rgba(255, 255, 255, .1);
         }
 
         :nth-child(2) {
-            right: 4%;
-            top: 10%;
-            background: rgba(255, 255, 255, .1);
+          position: absolute;
+          animation: animationFramesTwo 13s infinite linear;
+          right: 4%;
+          top: 10%;
+          background: rgba(255, 255, 255, .1);
         }
 
         :nth-child(3) {
-            top: 280px;
-            right: 5.66666%;
-            background: rgba(255, 255, 255, .3);
+          position: absolute;
+          animation: animationFramesFour 25s alternate infinite linear;
+          top: 30%;
+          left: 13%;
+          background: rgba(255, 255, 255, .3);
         }
 
         :nth-child(4) {
-            top: 320px;
-            right: 7%;
-            background: rgba(255, 255, 255, .15);
+          position: absolute;
+          animation: animationFramesThree 35s alternate infinite linear;
+          top: 30%;
+          right: 48%;
+          background: rgba(255, 255, 255, .15);
         }
 
         :nth-child(5) {
-            top: 38%;
-            left: 1%;
-            right: auto;
-            background: rgba(255, 255, 255, .05);
+          position: absolute;
+          animation: animationFramesFour 20s alternate infinite linear;
+          top: 67%;
+          right: 30%;
+          left: auto;
+          background: rgba(255, 255, 255, .05);
         }
 
         :nth-child(6) {
-            width: 200px;
-            height: 200px;
-            top: 44%;
-            left: 10%;
-            right: auto;
-            background: rgba(255, 255, 255, .15);
+          position: absolute;
+          animation: animationFramesOne 15s infinite linear;
+          width: 200px;
+          height: 200px;
+          top: 66%;
+          right: 15%;
+          left: auto;
+          background: rgba(255, 255, 255, .15);
         }
 
         :nth-child(7) {
-            bottom: 50%;
-            right: 36%;
-            background: rgba(255, 255, 255, .04);
+          position: absolute;
+          animation: animationFramesFour 20s alternate infinite linear;
+          bottom: 50%;
+          left: 36%;
+          background: rgba(255, 255, 255, .04);
         }
 
         :nth-child(8) {
-            bottom: 70px;
-            right: 2%;
-            background: rgba(255, 255, 255, .2);
+          position: absolute;
+          animation: animationFramesOne 17s infinite linear;
+          bottom: 70px;
+          left: 4%;
+          background: rgba(255, 255, 255, .2);
         }
 
         :nth-child(9) {
-            bottom: 1%;
-            right: 2%;
-            background: rgba(255, 255, 255, .1);
+          position: absolute;
+          animation: animationFramesOne 20s alternate infinite linear;
+          top: 5%;
+          left: 57%;
+          background: rgba(255, 255, 255, .1);
         }
 
         :nth-child(10) {
-            bottom: 1%;
-            left: 1%;
-            right: auto;
-            background: rgba(255, 255, 255, .05);
+          position: absolute;
+          animation: animationFramesOne 15s infinite linear;
+          bottom: 50%;
+          left: 1%;
+          right: auto;
+          background: rgba(255, 255, 255, .05);
         }
 
         @include media-breakpoint-down(md) {

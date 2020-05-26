@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.75" height="38.87" viewBox="0 0 36.75 38.87">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #6c63ff;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="849.594" y1="1443.53" x2="849.594" y2="1404.66" gradientUnits="userSpaceOnUse">
+      <stop offset="NaN" stop-color="gray"/>
+      <stop offset="NaN" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="Infinity" stop-color="#NaNNaNNaN" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <path id="Rectangle" class="cls-1" d="M849.6,1404.64h0a18.364,18.364,0,0,1,18.376,18.38v2.12a18.364,18.364,0,0,1-18.376,18.38h0a18.364,18.364,0,0,1-18.375-18.38v-2.12A18.364,18.364,0,0,1,849.6,1404.64Z" transform="translate(-831.219 -1404.66)"/>
+  <path id="Rectangle-2" data-name="Rectangle" class="cls-2" d="M850.5,1405.64h0a16.488,16.488,0,0,1,16.5,16.5v4a16.482,16.482,0,0,1-16.5,16.5h0a16.481,16.481,0,0,1-16.5-16.5v-4A16.487,16.487,0,0,1,850.5,1405.64Z" transform="translate(-831.219 -1404.66)"/>
+  <path id="Path" class="cls-3" d="M861.608,1428.17c0.341-2.05-.551-4.07-1.423-5.96l-0.916-1.99v0.06a7.969,7.969,0,0,1-6.1,7.67v1.35a7.989,7.989,0,0,1,6.1,7.67v3.67H843v-3.67a7.99,7.99,0,0,1,6.1-7.67v-1.35a7.991,7.991,0,0,1-6.076-7.08,7.9,7.9,0,0,1,4.921-7.88,3.143,3.143,0,0,1,2.649-2.85,10,10,0,0,1,.674-1.34,4.266,4.266,0,0,1,3.611-2.15,4.688,4.688,0,0,1,2.264.76,10.484,10.484,0,0,1,4.1,5,23.525,23.525,0,0,1,1.5,6.32C863.143,1421.93,863.281,1425.38,861.608,1428.17Z" transform="translate(-831.219 -1404.66)"/>
+</svg>

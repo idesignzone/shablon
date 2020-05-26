@@ -2,8 +2,8 @@
   <header class="header-global">
     <base-nav class="navbar-main navbar-light" transparent type="" effect="light" expand>
       <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
-        <!--          <img src="img/brand/white.png" alt="logo">-->
-        <span class="nav-link-inner--text">Farmin</span>
+        <img :src="logo" class="navbar-brand-img" alt="...">
+<!--        <span class="nav-link-inner&#45;&#45;text">Shablon</span>-->
       </router-link>
       <div class="row" slot="content-header" slot-scope="{closeMenu}">
         <div class="col-6 collapse-brand">
@@ -120,6 +120,18 @@ export default {
     BaseNav,
     CloseButton,
     BaseDropdown
+  },
+  props: {
+    logo: {
+      type: String,
+      default: 'img/brand/logo.png',
+      description: 'Landing app logo'
+    },
+    autoClose: {
+      type: Boolean,
+      default: true,
+      description: 'Whether sidebar should autoclose on mobile when clicking an item'
+    }
   },
   computed: mapGetters({
     authenticated: 'auth/check'

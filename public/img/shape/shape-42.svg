@@ -1,0 +1,139 @@
+<svg id="Icon_Illustratio_Security" data-name="Icon/Illustratio/Security" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="249" height="210" viewBox="0 0 249 210">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.55;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-10, .cls-2, .cls-7, .cls-8 {
+        filter: url(#filter);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #2196f3;
+        stroke-width: 4px;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7 {
+        opacity: 0.21;
+      }
+
+      .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-6, .cls-8 {
+        opacity: 0.5;
+      }
+
+      .cls-13, .cls-9 {
+        fill: #e0e0e0;
+      }
+
+      .cls-11 {
+        fill-opacity: 0;
+      }
+
+      .cls-12, .cls-14 {
+        fill: #6c63ff;
+      }
+
+      .cls-12 {
+        opacity: 0.4;
+      }
+
+      .cls-14, .cls-15 {
+        opacity: 0.7;
+      }
+
+      .cls-15 {
+        fill: #3ad29f;
+      }
+
+      .cls-16, .cls-21 {
+        fill: #47e6b1;
+      }
+
+      .cls-17, .cls-20 {
+        fill: #4d8af0;
+      }
+
+      .cls-18 {
+        fill: #fdd835;
+      }
+
+      .cls-19 {
+        fill: #f55f44;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Illustration_Icon" data-name="Illustration Icon">
+    <g id="Bg_Circle" data-name="Bg Circle" class="cls-1">
+      <g id="Group" class="cls-2">
+        <path id="Path" class="cls-3" d="M1390.66,1398.93c-0.48-.28-0.97-0.56-1.46-0.84" transform="translate(-1219 -1387)"/>
+        <path id="Path-2" data-name="Path" class="cls-4" d="M1439.64,1516.57a106.911,106.911,0,0,0,3.22-26.19,105.464,105.464,0,0,0-49.34-89.75" transform="translate(-1219 -1387)"/>
+        <path id="Path-3" data-name="Path" class="cls-3" d="M1438.77,1519.86c0.15-.54.31-1.1,0.45-1.65" transform="translate(-1219 -1387)"/>
+      </g>
+      <path id="Path-4" data-name="Path" class="cls-5" d="M1304,1393c-39.63,14.35-68,52.81-68,98" transform="translate(-1219 -1387)"/>
+      <path id="Path-5" data-name="Path" class="cls-6" d="M1256,1553a103.507,103.507,0,0,0,133,29.26" transform="translate(-1219 -1387)"/>
+      <g id="Group-2" data-name="Group" class="cls-7">
+        <path id="Path-6" data-name="Path" class="cls-3" d="M1406.27,1511.85c0.18-.54.34-1.09,0.5-1.64" transform="translate(-1219 -1387)"/>
+        <path id="Path-7" data-name="Path" class="cls-4" d="M1381.9,1434.58a70.356,70.356,0,1,0,23.27,80.49" transform="translate(-1219 -1387)"/>
+        <path id="Path-8" data-name="Path" class="cls-3" d="M1384.56,1436.71c-0.44-.37-0.87-0.73-1.32-1.09" transform="translate(-1219 -1387)"/>
+      </g>
+      <g id="Group-3" data-name="Group" class="cls-8">
+        <path id="Path-9" data-name="Path" class="cls-3" d="M1334.72,1450.4c-0.57.06-1.14,0.14-1.71,0.22" transform="translate(-1219 -1387)"/>
+        <path id="Path-10" data-name="Path" class="cls-4" d="M1373.93,1509.13a39.308,39.308,0,0,0-.44-39.38,40.065,40.065,0,0,0-34.49-19.57h-1" transform="translate(-1219 -1387)"/>
+        <path id="Path-11" data-name="Path" class="cls-3" d="M1372.17,1511.95q0.48-.69.93-1.41" transform="translate(-1219 -1387)"/>
+      </g>
+    </g>
+    <rect id="Rectangle" class="cls-9" x="56" y="32" width="43" height="2"/>
+    <rect id="Rectangle-2" data-name="Rectangle" class="cls-9" x="103" y="32" width="43" height="2"/>
+    <rect id="Rectangle-3" data-name="Rectangle" class="cls-9" x="111" y="69" width="43" height="2"/>
+    <rect id="Rectangle-4" data-name="Rectangle" class="cls-9" x="111" y="73" width="43" height="2"/>
+    <rect id="Rectangle-5" data-name="Rectangle" class="cls-9" x="113" y="76" width="43" height="2"/>
+    <g id="Clipped" class="cls-10">
+      <path id="_8cc91f6d-19b0-43cc-9c18-2faa83ac34ba" data-name="8cc91f6d-19b0-43cc-9c18-2faa83ac34ba" class="cls-11" d="M1315.14,1465.15h40.62v27.6h-40.62v-27.6Z" transform="translate(-1219 -1387)"/>
+      <g id="Mask_by_8cc91f6d-19b0-43cc-9c18-2faa83ac34ba" data-name="Mask by 8cc91f6d-19b0-43cc-9c18-2faa83ac34ba">
+        <g id="Group-4" data-name="Group" class="cls-10">
+          <circle id="Oval" class="cls-12" cx="62.595" cy="63.86" r="2.965"/>
+        </g>
+      </g>
+    </g>
+    <path id="Rectangle-6" data-name="Rectangle" class="cls-13" d="M1323.63,1413.5l85.81,16.93-0.26,1.29-85.81-16.93Z" transform="translate(-1219 -1387)"/>
+    <path id="Rectangle-7" data-name="Rectangle" class="cls-13" d="M1299.21,1535.46l85.81,16.92-0.26,1.29-85.81-16.92Z" transform="translate(-1219 -1387)"/>
+    <path id="Rectangle-8" data-name="Rectangle" class="cls-13" d="M1297.72,1542.88l66.31,13.08-0.25,1.29-66.31-13.08Z" transform="translate(-1219 -1387)"/>
+    <path id="Rectangle-9" data-name="Rectangle" class="cls-14" d="M1322.14,1420.92l42.91,8.47-0.26,1.29-42.9-8.47Z" transform="translate(-1219 -1387)"/>
+    <path id="Rectangle-10" data-name="Rectangle" class="cls-13" d="M1320.66,1428.34l77.36,15.26-0.26,1.29-77.36-15.26Z" transform="translate(-1219 -1387)"/>
+    <path id="Rectangle-11" data-name="Rectangle" class="cls-15" d="M1319.17,1435.76l18.86,3.72-0.26,1.29-18.85-3.72Z" transform="translate(-1219 -1387)"/>
+    <path id="Rectangle-12" data-name="Rectangle" class="cls-13" d="M1317.69,1443.18l85.81,16.93-0.26,1.29-85.81-16.93Z" transform="translate(-1219 -1387)"/>
+    <g id="Group-5" data-name="Group" class="cls-8">
+      <path id="Rectangle-13" data-name="Rectangle" class="cls-16" d="M1254.06,1561.02h0.87v4.95h-0.87v-4.95Z" transform="translate(-1219 -1387)"/>
+      <path id="Rectangle-14" data-name="Rectangle" class="cls-16" d="M1256.97,1563.06v0.87h-4.95v-0.87h4.95Z" transform="translate(-1219 -1387)"/>
+    </g>
+    <path id="Path-12" data-name="Path" class="cls-17" d="M1369.68,1389.04a1.091,1.091,0,0,1,.11.06h0a0.542,0.542,0,0,1,.17.63,0.554,0.554,0,0,1-.54.36h0a0.5,0.5,0,0,1-.12-0.02,1.1,1.1,0,0,0-1.34.61,1.091,1.091,0,0,1-.06.11h0a0.546,0.546,0,0,1-.63.17,0.554,0.554,0,0,1-.36-0.54h0a0.5,0.5,0,0,1,.02-0.12,1.1,1.1,0,0,0-.61-1.34,1.091,1.091,0,0,1-.11-0.06h0a0.565,0.565,0,0,1-.18-0.63,0.576,0.576,0,0,1,.55-0.36h0a0.5,0.5,0,0,1,.12.02,1.1,1.1,0,0,0,1.34-.61,1.091,1.091,0,0,1,.06-0.11h0a0.565,0.565,0,0,1,.63-0.18,0.572,0.572,0,0,1,.36.54h0a0.507,0.507,0,0,1-.02.13,1.1,1.1,0,0,0,.61,1.34h0Z" transform="translate(-1219 -1387)"/>
+    <path id="Path-13" data-name="Path" class="cls-18" d="M1258.79,1417.1h0a0.542,0.542,0,0,1,.17.63,0.554,0.554,0,0,1-.54.36h0a0.5,0.5,0,0,1-.12-0.02,1.1,1.1,0,0,0-1.34.61,1.091,1.091,0,0,1-.06.11h0a0.546,0.546,0,0,1-.63.17,0.554,0.554,0,0,1-.36-0.54h0a0.5,0.5,0,0,1,.02-0.12,1.1,1.1,0,0,0-.61-1.34,1.091,1.091,0,0,1-.11-0.06h0a0.565,0.565,0,0,1-.18-0.63,0.576,0.576,0,0,1,.55-0.36h0a0.5,0.5,0,0,1,.12.02,1.1,1.1,0,0,0,1.34-.61,1.091,1.091,0,0,1,.06-0.11h0a0.565,0.565,0,0,1,.63-0.18,0.572,0.572,0,0,1,.36.54h0a0.507,0.507,0,0,1-.02.13,1.1,1.1,0,0,0,.61,1.34A1.091,1.091,0,0,1,1258.79,1417.1Z" transform="translate(-1219 -1387)"/>
+    <path id="Path-14" data-name="Path" class="cls-18" d="M1249.68,1499.04a1.091,1.091,0,0,1,.11.06h0a0.542,0.542,0,0,1,.17.63,0.554,0.554,0,0,1-.54.36h0a0.5,0.5,0,0,1-.12-0.02,1.1,1.1,0,0,0-1.34.61,1.091,1.091,0,0,1-.06.11h0a0.546,0.546,0,0,1-.63.17,0.554,0.554,0,0,1-.36-0.54h0a0.5,0.5,0,0,1,.02-0.12,1.1,1.1,0,0,0-.61-1.34,1.091,1.091,0,0,1-.11-0.06h0a0.565,0.565,0,0,1-.18-0.63,0.576,0.576,0,0,1,.55-0.36h0a0.5,0.5,0,0,1,.12.02,1.1,1.1,0,0,0,1.34-.61,1.091,1.091,0,0,1,.06-0.11h0a0.565,0.565,0,0,1,.63-0.18,0.572,0.572,0,0,1,.36.54h0a0.507,0.507,0,0,1-.02.13,1.107,1.107,0,0,0,.61,1.34h0Z" transform="translate(-1219 -1387)"/>
+    <circle id="Oval-2" data-name="Oval" class="cls-19" cx="92" cy="7" r="2"/>
+    <circle id="Oval-3" data-name="Oval" class="cls-19" cx="2" cy="85" r="2"/>
+    <circle id="Oval-4" data-name="Oval" class="cls-19" cx="234" cy="32" r="2"/>
+    <circle id="Oval-5" data-name="Oval" class="cls-20" cx="223" cy="91" r="2"/>
+    <circle id="Oval-6" data-name="Oval" class="cls-21" cx="10" cy="38" r="2"/>
+    <circle id="Oval-7" data-name="Oval" class="cls-21" cx="231" cy="175" r="2"/>
+    <circle id="Oval-8" data-name="Oval" class="cls-21" cx="247" cy="116" r="2"/>
+  </g>
+</svg>
