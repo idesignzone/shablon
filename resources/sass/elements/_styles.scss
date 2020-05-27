@@ -17963,6 +17963,7 @@ textarea[resize='horizontal']
 .input-group .form-control:focus
 {
   box-shadow: none;
+  background: transparent !important;
 }
 
 .input-group-text
