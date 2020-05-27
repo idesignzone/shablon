@@ -18,24 +18,24 @@
           <div class="col px-0">
             <div class="row">
               <div class="col-lg-6">
-                <h1 class="display-3 text-white">{{ title }}
+                <h1 class="display-3 text-white font-weight-700"><i class="fa fa-palette text-primary"></i> {{ title }}
                   <span>Laravel-vue starter template</span>
                 </h1>
                 <p class="lead  text-white">Shablon template is based on Bootstrap latest version with fontawesome and valid HTML5, CSS3, SCSS.</p>
                 <div class="btn-wrapper">
                   <base-button tag="a"
-                               href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
+                               href="/components"
                                class="mb-3 mb-sm-0"
                                type="info"
                                icon="fa fa-code">
                     Components
                   </base-button>
                   <base-button tag="a"
-                               href="https://www.creative-tim.com/product/argon-design-system"
+                               href="https://github.com/idesignzone/shablon"
                                class="mb-3 mb-sm-0"
                                type="white"
                                icon="ni ni-cloud-download-95">
-                    Download HTML
+                    Download Shablon
                   </base-button>
                 </div>
               </div>
@@ -88,7 +88,7 @@
                     <h4 class="text-primary text-uppercase">Bootstrap Front-end framework</h4>
                     <p class="description mt-3">Bootstrap contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.</p>
                     <div>
-                      <badge type="primary" rounded>Font Awesome</badge>
+                      <badge type="primary" rounded>Bootstrap-vue</badge>
                       <badge type="primary" rounded>nouislider</badge>
                       <badge type="primary" rounded>sweetalert</badge>
                     </div>

@@ -2,13 +2,14 @@
   <header class="header-global">
     <base-nav class="navbar-main navbar-light" transparent type="" effect="light" expand>
       <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
-        <img :src="logo" class="navbar-brand-img" alt="...">
-<!--        <span class="nav-link-inner&#45;&#45;text">Shablon</span>-->
+<!--        <img :src="logo" class="navbar-brand-img" alt="...">-->
+        <h2 class="text-white mt-2"><i class="fa fa-palette d-inline text-primary text-xl"></i> Shablon</h2>
       </router-link>
       <div class="row" slot="content-header" slot-scope="{closeMenu}">
         <div class="col-6 collapse-brand">
           <a href="#">
-            <img src="img/brand/blue.png">
+<!--            <img :src="logo">-->
+            <h2><i class="fa fa-palette d-inline text-primary text-xl"></i> Shablon</h2>
           </a>
         </div>
         <div class="col-6 collapse-close">
@@ -63,7 +64,7 @@
         <locale-dropdown />
         <li class="nav-item d-none d-lg-block ml-lg-4">
           <template v-if="authenticated">
-            <router-link :to="{ name: 'dashboard' }" class="btn btn-neutral btn-icon">
+            <router-link :to="{ name: 'dashboard' }" class="btn btn-neutral btn-icon btn-sm text-uppercase">
               {{ $t('dashboard') }}
             </router-link>
           </template>
