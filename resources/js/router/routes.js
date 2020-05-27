@@ -11,7 +11,7 @@ export default [
   { path: '/password/reset/:token', name: 'password.reset', component: page('auth/password/reset.vue') },
   { path: '/email/verify/:id', name: 'verification.verify', component: page('auth/verification/verify.vue') },
   { path: '/email/resend', name: 'verification.resend', component: page('auth/verification/resend.vue') },
-
+  { path: '/components', name: 'components', component: page('components.vue') },
   { path: '/dashboard', name: 'dashboard', component: page('dashboard.vue') },
   { path: '/settings',
     component: page('settings/index.vue'),

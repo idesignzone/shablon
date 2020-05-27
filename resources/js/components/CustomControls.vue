@@ -173,15 +173,15 @@
     </section>
 </template>
 <script>
-import BaseNav from "@/components/BaseNav";
-import CloseButton from "@/components/CloseButton";
+import BaseNav from '~/components/Navigation/BaseNav'
+import CloseButton from '~/components/Navigation/CloseButton'
 
 export default {
   components: {
     BaseNav,
     CloseButton
   },
-  data() {
+  data () {
     return {
       checkboxes: {
         unchecked: false,
@@ -190,8 +190,8 @@ export default {
         checkedDisabled: true
       },
       radio: {
-        radio1: "radio1",
-        radio2: "radio3"
+        radio1: 'radio1',
+        radio2: 'radio3'
       },
       switches: {
         off: false,
@@ -201,9 +201,9 @@ export default {
         slider1: 0,
         slider2: [150, 400]
       }
-    };
+    }
   }
-};
+}
 </script>
 <style>
 </style>
