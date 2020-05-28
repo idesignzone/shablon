@@ -6,7 +6,9 @@
           <h3 class="mb-0">Account security</h3>
         </div>
         <div class="col-4 text-right">
-          <a href="#!" class="btn btn-sm btn-primary">Settings</a>
+          <router-link to="/settings/profile" class="btn btn-sm btn-primary">
+            <i class="fa fa-user-circle"></i> Profile
+          </router-link>
         </div>
       </div>
     </div>

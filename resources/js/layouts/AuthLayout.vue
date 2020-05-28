@@ -5,7 +5,8 @@
               containerClasses="px-4 container"
               expand>
       <router-link slot="brand" class="navbar-brand" to="/">
-        <img :src="logo"/>
+        <!--<img :src="logo"/>-->
+        <h5 class="mt-2"><i class="fa fa-palette d-inline"></i> Shablon</h5>
       </router-link>
       <template v-slot="{closeMenu}">
         <!-- Collapse header -->
@@ -13,7 +14,8 @@
           <div class="row">
             <div class="col-6 collapse-brand">
               <router-link to="/">
-                <img src="img/brand/green.png">
+<!--                <img :src="logo">-->
+                <h5><i class="fa fa-palette d-inline"></i> Shablon</h5>
               </router-link>
             </div>
             <div class="col-6 collapse-close">

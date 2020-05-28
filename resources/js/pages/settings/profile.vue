@@ -7,7 +7,9 @@
             <h3 class="mb-0">My account</h3>
           </div>
           <div class="col-4 text-right">
-            <a href="#!" class="btn btn-sm btn-primary">Settings</a>
+            <router-link to="/settings/password" class="btn btn-sm btn-primary">
+              <i class="fa fa-key"></i> Settings
+            </router-link>
           </div>
         </div>
       </div>
