@@ -96,13 +96,9 @@ body
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-
   margin: 0;
-
   text-align: left;
-
   color: #525f7f;
-  background-color: #f8f9fe;
 }
 
 [tabindex='-1']:focus
@@ -478,60 +474,6 @@ template
 [hidden]
 {
   display: none !important;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6
-{
-  font-family: inherit;
-  font-weight: 600;
-  line-height: 1.5;
-
-  margin-bottom: .5rem;
-
-  color: #32325d;
-}
-
-
-
-h2,
-.h2
-{
-  font-size: 1.25rem;
-}
-
-h3,
-.h3
-{
-  font-size: 1.0625rem;
-}
-
-h4,
-.h4
-{
-  font-size: .9375rem;
-}
-
-h5,
-.h5
-{
-  font-size: .8125rem;
-}
-
-h6,
-.h6
-{
-  font-size: .625rem;
 }
 
 .lead
@@ -14941,47 +14883,47 @@ button.section-darker:focus
   background-color: black !important;
 }
 
-.bg-gradient-primary
+.card .bg-gradient-primary
 {
   background: linear-gradient(87deg, #5e72e4 0, #825ee4 100%) !important;
 }
 
-.bg-gradient-secondary
+.card .bg-gradient-secondary
 {
   background: linear-gradient(87deg, #f7fafc 0, #f7f8fc 100%) !important;
 }
 
-.bg-gradient-success
+.card .bg-gradient-success
 {
   background: linear-gradient(87deg, #2dce89 0, #2dcecc 100%) !important;
 }
 
-.bg-gradient-info
+.card .bg-gradient-info
 {
   background: linear-gradient(87deg, #11cdef 0, #1171ef 100%) !important;
 }
 
-.bg-gradient-warning
+.card .bg-gradient-warning
 {
   background: linear-gradient(87deg, #fb6340 0, #fbb140 100%) !important;
 }
 
-.bg-gradient-danger
+.card .bg-gradient-danger
 {
   background: linear-gradient(87deg, #f5365c 0, #f56036 100%) !important;
 }
 
-.bg-gradient-light
+.card .bg-gradient-light
 {
   background: linear-gradient(87deg, #adb5bd 0, #adaebd 100%) !important;
 }
 
-.bg-gradient-dark
+.card .bg-gradient-dark
 {
   background: linear-gradient(87deg, #212529 0, #212229 100%) !important;
 }
 
-.bg-gradient-default
+.card .bg-gradient-default
 {
   background: linear-gradient(87deg, #172b4d 0, #1a174d 100%) !important;
 }

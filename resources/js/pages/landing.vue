@@ -17,25 +17,25 @@
         <div class="container shape-container d-flex">
           <div class="col px-0">
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-12 text-center">
                 <h1 class="display-3 text-white font-weight-700"><i class="fa fa-palette text-primary"></i> {{ title }}
                   <span>Laravel-vue starter template</span>
                 </h1>
-                <p class="lead  text-white">Shablon template is based on Bootstrap latest version with fontawesome and valid HTML5, CSS3, SCSS.</p>
+                <p class="lead  text-white">Shablon template is based on Bootstrap latest version and valid HTML5, CSS3, SCSS.</p>
                 <div class="btn-wrapper">
                   <base-button tag="a"
                                href="/components"
-                               class="mb-3 mb-sm-0"
+                               class="mb-3 mb-sm-0 text-uppercase"
                                type="info"
                                icon="fa fa-code">
                     Components
                   </base-button>
                   <base-button tag="a"
                                href="https://github.com/idesignzone/shablon"
-                               class="mb-3 mb-sm-0"
+                               class="mb-3 mb-sm-0 text-uppercase"
                                type="white"
-                               icon="ni ni-cloud-download-95">
-                    Download Shablon
+                               icon="fa fa-download">
+                    Download
                   </base-button>
                 </div>
               </div>
@@ -52,7 +52,7 @@
                   <card class="border-0" hover shadow body-classes="py-5">
                     <icon name="fab fa-laravel" type="warning" rounded class="mb-4">
                     </icon>
-                    <h4 class="text-warning text-uppercase">Laravel PHP Framework</h4>
+                    <h6 class="text-warning text-uppercase">Laravel PHP Framework</h6>
                     <p class="description mt-3">Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.</p>
                     <div>
                       <badge type="warning" rounded>VueI18n</badge>
@@ -68,7 +68,7 @@
                   <card class="border-0" hover shadow body-classes="py-5">
                     <icon name="fab fa-vuejs" type="success" rounded class="mb-4">
                     </icon>
-                    <h4 class="text-success text-uppercase">Vue.js JavaScript Framework</h4>
+                    <h6 class="text-success text-uppercase">Vue.js JavaScript Framework</h6>
                     <p class="description mt-3">Vue is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.</p>
                     <div>
                       <badge type="success" rounded>VueRouter</badge>
@@ -85,7 +85,7 @@
                   <card class="border-0" hover shadow body-classes="py-5">
                     <icon name="fab fa-bootstrap" type="primary" rounded class="mb-4">
                     </icon>
-                    <h4 class="text-primary text-uppercase">Bootstrap Front-end framework</h4>
+                    <h6 class="text-primary text-uppercase">Bootstrap Front-end framework</h6>
                     <p class="description mt-3">Bootstrap contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.</p>
                     <div>
                       <badge type="primary" rounded>Bootstrap-vue</badge>
@@ -110,27 +110,27 @@
             </div>
             <div class="col-md-6 order-md-1">
               <div class="pr-md-5">
-                <icon name="ni ni-settings-gear-65" class="mb-5" size="lg" type="success" shadow
+                <icon name="fa fa-tools" class="mb-5" size="lg" type="success" shadow
                       rounded></icon>
-                <h3>Awesome features</h3>
-                <p>The kit comes with three pre-built pages to help you get started faster. You can change
+                <h2>Awesome features</h2>
+                <p>The kit comes with pre-built pages to help you get started faster. You can change
                   the text and images and you're good to go.</p>
                 <ul class="list-unstyled mt-5">
                   <li class="py-2">
                     <div class="d-flex align-items-center">
-                      <badge type="success" circle class="mr-3" icon="ni ni-settings-gear-65"></badge>
+                      <badge type="success" circle class="mr-3" icon="fa fa-magnet"></badge>
                       <h6 class="mb-0">Carefully crafted components</h6>
                     </div>
                   </li>
                   <li class="py-2">
                     <div class="d-flex align-items-center">
-                      <badge type="success" circle class="mr-3" icon="ni ni-html5"></badge>
+                      <badge type="success" circle class="mr-3" icon="fa fa-toolbox"></badge>
                       <h6 class="mb-0">Amazing page examples</h6>
                     </div>
                   </li>
                   <li class="py-2">
                     <div class="d-flex align-items-center">
-                      <badge type="success" circle class="mr-3" icon="ni ni-satisfied"></badge>
+                      <badge type="success" circle class="mr-3" icon="fa fa-wrench"></badge>
                       <h6 class="mb-0">Super friendly support team</h6>
                     </div>
                   </li>
@@ -161,14 +161,14 @@
             </div>
             <div class="col-md-6">
               <div class="pl-md-5">
-                <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
+                <icon name="fa fa-crown" class="mb-5" size="lg" type="warning" shadow rounded></icon>
 
                 <h3>Our customers</h3>
                 <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
                   Just make sure you enable them first via JavaScript.</p>
-                <p>The kit comes with three pre-built pages to help you get started faster. You can change
+                <p>The kit comes with pre-built pages to help you get started faster. You can change
                   the text and images and you're good to go.</p>
-                <p>The kit comes with three pre-built pages to help you get started faster. You can change
+                <p>The kit comes with pre-built pages to help you get started faster. You can change
                   the text and images and you're good to go.</p>
                 <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
                   websites</a>
@@ -196,7 +196,7 @@
             <div class="col-lg-6 order-lg-1">
               <div class="d-flex px-3">
                 <div>
-                  <icon name="ni ni-building" size="lg" class="bg-gradient-white" color="primary" shadow
+                  <icon name="fab fa-sketch" size="lg" class="bg-gradient-white" color="primary" shadow
                         rounded></icon>
                 </div>
                 <div class="pl-4">
@@ -208,7 +208,7 @@
               <card shadow class="shadow-lg--hover mt-5">
                 <div class="d-flex px-3">
                   <div>
-                    <icon name="ni ni-satisfied" gradient="success" color="white" shadow
+                    <icon name="fa fa-trophy" gradient="success" color="white" shadow
                           rounded></icon>
                   </div>
                   <div class="pl-4">
@@ -222,7 +222,7 @@
               <card shadow class="shadow-lg--hover mt-5">
                 <div class="d-flex px-3">
                   <div>
-                    <icon name="ni ni-active-40" gradient="warning" color="white" shadow
+                    <icon name="fa fa-medal" gradient="warning" color="white" shadow
                           rounded></icon>
                   </div>
                   <div class="pl-4">
@@ -239,9 +239,9 @@
       </section>
       <section class="section section-lg">
         <div class="container">
-          <div class="row justify-content-center text-center mb-lg">
+          <div class="row justify-content-center text-center mb-5">
             <div class="col-lg-8">
-              <h2 class="">The amazing Team</h2>
+              <h2 class="display-3">The amazing Team</h2>
               <p class="lead text-muted">According to the National Oceanic and Atmospheric Administration,
                 Ted, Scambos, NSIDClead scentist, puts the potentially record maximum.</p>
             </div>
@@ -348,9 +348,9 @@
                     worth billions of dollars, because I got the answers. I understand culture.</p>
                 </div>
                 <div class="col-lg-3 ml-lg-auto">
-                  <base-button tag="a" href="https://www.creative-tim.com/product/vue-argon-design-system"
+                  <base-button tag="a" href="https://github.com/idesignzone/shablon"
                                type="white" block size="lg">
-                    Download Vue
+                    Download
                   </base-button>
                 </div>
               </div>
@@ -376,19 +376,19 @@
           </div>
           <div class="row row-grid mt-5">
             <div class="col-lg-4">
-              <icon name="ni ni-settings" size="lg" gradient="white" shadow round color="primary"></icon>
+              <icon name="fa fa-cut" size="lg" gradient="white" shadow round color="primary"></icon>
               <h5 class="text-white mt-3">Building tools</h5>
               <p class="text-white mt-3">Some quick example text to build on the card title and make up the
                 bulk of the card's content.</p>
             </div>
             <div class="col-lg-4">
-              <icon name="ni ni-ruler-pencil" size="lg" gradient="white" shadow round color="primary"></icon>
+              <icon name="fa fa-cube" size="lg" gradient="white" shadow round color="primary"></icon>
               <h5 class="text-white mt-3">Grow your market</h5>
               <p class="text-white mt-3">Some quick example text to build on the card title and make up the
                 bulk of the card's content.</p>
             </div>
             <div class="col-lg-4">
-              <icon name="ni ni-atom" size="lg" gradient="white" shadow round color="primary"></icon>
+              <icon name="fa fa-crop" size="lg" gradient="white" shadow round color="primary"></icon>
               <h5 class="text-white mt-3">Launch time</h5>
               <p class="text-white mt-3">Some quick example text to build on the card title and make up the
                 bulk of the card's content.</p>
@@ -400,17 +400,17 @@
         <div class="container">
           <div class="row justify-content-center mt--300">
             <div class="col-lg-8">
-              <card shadow body-classes="p-lg-5">
+              <card shadow body-classes="p-lg-5 bg-gradient-secondary">
                 <h4 class="mb-1">Want to work with us?</h4>
                 <p class="mt-0">Your project is very important to us.</p>
                 <base-input class="mt-5"
                             alternative
                             placeholder="Your name"
-                            addon-left-icon="ni ni-user-run">
+                            addon-left-icon="fa fa-signature">
                 </base-input>
                 <base-input alternative
                             placeholder="Email address"
-                            addon-left-icon="ni ni-email-83">
+                            addon-left-icon="fa fa-envelope">
                 </base-input>
                 <base-input class="mb-4">
                                     <textarea class="form-control form-control-alternative" name="name" rows="4"
@@ -428,59 +428,58 @@
         <div class="container">
           <div class="row row-grid justify-content-center">
             <div class="col-lg-8 text-center">
-              <h2 class="">Do you love this awesome
+              <h2 class="display-3">Do you love this awesome
                 <span class="text-success">Design System for Bootstrap 4?</span>
               </h2>
-              <p class="lead">Cause if you do, it can be yours for FREE. Hit the button below to navigate to
-                Creative Tim where you can find the Design System in HTML. Start a new project or give an
+              <p class="lead">Cause if you do, it can be yours for FREE. Hit the button below to download this template for free. Start a new project or give an
                 old Bootstrap project a new look!</p>
               <div class="btn-wrapper">
-                <a href="https://www.creative-tim.com/product/vue-argon-design-system"
-                   class="btn btn-primary mb-3 mb-sm-0">Download Vue</a>
+                <a href="https://github.com/idesignzone/shablon"
+                   class="btn btn-primary mb-3 mb-sm-0">Download</a>
               </div>
               <div class="text-center">
-                <h4 class="display-4 mb-5 mt-5">Available on these technologies</h4>
+                <h4 class="display-4 mb-5 mt-5">Built using these technologies</h4>
                 <div class="row justify-content-center">
                   <div class="col-lg-2 col-4">
-                    <a href="https://getbootstrap.com/" target="_blank" data-toggle="tooltip"
-                       data-original-title="Bootstrap 4 - Most popular front-end component library">
-                      <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg'"
+                    <a href="https://vuejs.org/" target="_blank" data-toggle="tooltip"
+                       data-original-title="Vue.js - The progressive javascript framework">
+                      <img v-lazy="'img/brand/vue.jpg'" title="Vue.js"
                            class="img-fluid">
                     </a>
                   </div>
                   <div class="col-lg-2 col-4">
-                    <a href="https://www.sketchapp.com/" target="_blank" data-toggle="tooltip"
+                    <a href="https://www.laravel.com/" target="_blank" data-toggle="tooltip"
                        data-original-title="[Coming Soon] Sketch - Digital design toolkit">
-                      <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg'"
-                           class="img-fluid opacity-5">
+                      <img v-lazy="'/img/brand/laravel.jpg'" title="Laravel"
+                           class="img-fluid">
+                    </a>
+                  </div>
+                  <div class="col-lg-2 col-4">
+                    <a href="https://getbootstrap.com/" target="_blank" data-toggle="tooltip"
+                       data-original-title="Bootstrap 4 - Most popular front-end component library">
+                      <img v-lazy="'img/brand/bootstrap.jpg'" title="Bootstrap"
+                           class="img-fluid">
+                    </a>
+                  </div>
+                  <div class="col-lg-2 col-4">
+                    <a href="https://sass-lang.com/" target="_blank" data-toggle="tooltip"
+                       data-original-title="[Coming Soon] Angular - One framework. Mobile &amp; desktop">
+                      <img v-lazy="'img/brand/sass.jpg'" title="SASS"
+                           class="img-fluid">
+                    </a>
+                  </div>
+                  <div class="col-lg-2 col-4">
+                    <a href="https://fontawesome.com/" target="_blank" data-toggle="tooltip"
+                       data-original-title="[Coming Soon] React - A JavaScript library for building user interfaces">
+                      <img v-lazy="'img/brand/fa.jpg'" title="Font Awesome"
+                           class="img-fluid">
                     </a>
                   </div>
                   <div class="col-lg-2 col-4">
                     <a href="https://www.adobe.com/products/photoshop.html" data-toggle="tooltip"
                        data-original-title="[Coming Soon] Adobe Photoshop - Software for digital images manipulation">
-                      <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg'"
-                           class="img-fluid  opacity-5">
-                    </a>
-                  </div>
-                  <div class="col-lg-2 col-4">
-                    <a href="https://vuejs.org/" target="_blank" data-toggle="tooltip"
-                       data-original-title="Vue.js - The progressive javascript framework">
-                      <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg'"
+                      <img v-lazy="'img/brand/ps.jpg'" title="Adobe Photoshop"
                            class="img-fluid">
-                    </a>
-                  </div>
-                  <div class="col-lg-2 col-4">
-                    <a href="https://angularjs.org/" target="_blank" data-toggle="tooltip"
-                       data-original-title="[Coming Soon] Angular - One framework. Mobile &amp; desktop">
-                      <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg'"
-                           class="img-fluid opacity-5">
-                    </a>
-                  </div>
-                  <div class="col-lg-2 col-4">
-                    <a href="https://reactjs.org/" target="_blank" data-toggle="tooltip"
-                       data-original-title="[Coming Soon] React - A JavaScript library for building user interfaces">
-                      <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg'"
-                           class="img-fluid opacity-5">
                     </a>
                   </div>
                 </div>
