@@ -7,7 +7,8 @@
                 <span class="navbar-toggler-icon"></span>
             </navbar-toggle-button>
             <router-link class="navbar-brand" to="/">
-                <img :src="logo" class="navbar-brand-img" alt="...">
+              <!--<img :src="logo" class="navbar-brand-img" alt="...">-->
+              <h4 class="text-left mt-1 font-weight-700"><i class="fa fa-palette d-inline text-primary"></i> Shablon</h4>
             </router-link>
             <slot name="mobile-right">
                 <ul class="nav align-items-center d-md-none">
@@ -66,7 +67,8 @@
                     <div class="row">
                         <div class="col-6 collapse-brand">
                             <router-link to="/">
-                                <img :src="logo">
+<!--                                <img :src="logo">-->
+                              <h4 class="font-weight-700"><i class="fa fa-palette d-inline text-primary"></i> Shablon</h4>
                             </router-link>
                         </div>
                         <div class="col-6 collapse-close">
