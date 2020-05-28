@@ -12,8 +12,8 @@
                     <!-- Button styles -->
                     <div>
                         <base-button type="primary">Button</base-button>
-                        <base-button class="btn-3" type="primary" icon="ni ni-bag-17">Button</base-button>
-                        <base-button class="btn-2" type="primary" icon="ni ni-bag-17"></base-button>
+                        <base-button class="btn-3" type="primary" icon="fa fa-crown">Button</base-button>
+                        <base-button class="btn-2" type="primary" icon="fa fa-crown"></base-button>
 
                         <!-- Button wizes -->
                         <div class="mb-3 mt-5">
@@ -63,7 +63,7 @@
 
 </template>
 <script>
-export default {};
+export default {}
 </script>
 <style>
 </style>

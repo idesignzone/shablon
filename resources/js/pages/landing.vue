@@ -3,18 +3,18 @@
     <div class="position-relative">
       <section class="section-shaped my-0">
         <div class="shape shape-style-1 shape-primary"> <!-- shape-default / shape-dark / shape-light -->
-          <span class="shape-1"></span>
-          <span class="shape-2"></span>
-          <span class="shape-3"></span>
-          <span class="shape-4"> </span>
-          <span class="shape-5"></span>
-          <span class="shape-6"></span>
-          <span class="shape-7"></span>
-          <span class="shape-8"></span>
-          <span class="shape-9"></span>
-          <span class="shape-10"></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
         </div>
-        <div class="container shape-container d-flex">
+        <div class="container shape-container d-flex pt-12 pb-12">
           <div class="col px-0">
             <div class="row">
               <div class="col-lg-12 text-center">
@@ -23,13 +23,10 @@
                 </h1>
                 <p class="lead  text-white">Shablon template is based on Bootstrap latest version and valid HTML5, CSS3, SCSS.</p>
                 <div class="btn-wrapper">
-                  <base-button tag="a"
-                               href="/components"
-                               class="mb-3 mb-sm-0 text-uppercase"
-                               type="info"
-                               icon="fa fa-code">
-                    Components
-                  </base-button>
+                  <router-link to="/components" class="btn btn-info text-uppercase">
+                    <i class="fa fa-code"></i>
+                    components
+                  </router-link>
                   <base-button tag="a"
                                href="https://github.com/idesignzone/shablon"
                                class="mb-3 mb-sm-0 text-uppercase"
@@ -43,7 +40,7 @@
           </div>
         </div>
       </section>
-      <section class="section section-lg pt-lg-0 mt-n8">
+      <section class="section section-lg pt-lg-0 mt-n6">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-12">

@@ -1,5 +1,5 @@
 <template>
-    <div class="row row-grid justify-content-between align-items-center mt-lg">
+    <div class="row row-grid justify-content-between align-items-center mt-5">
         <div class="col-lg-5">
             <h3 class="h4 text-success font-weight-bold mb-4">Progress bars</h3>
             <base-progress :value="40" label="Task completed"></base-progress>

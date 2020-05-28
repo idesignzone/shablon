@@ -70,7 +70,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center mt-md">
+            <div class="row justify-content-center mt-5">
                 <div class="col-lg-12">
                     <!-- Menu -->
                     <h3 class="h4 text-success font-weight-bold mb-4">Menu</h3>
