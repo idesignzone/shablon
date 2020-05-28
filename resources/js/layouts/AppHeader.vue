@@ -19,7 +19,7 @@
 
       <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
         <li class="nav-item">
-          <router-link to="/components">Components</router-link>
+          <router-link to="/components" class="nav-link">Components</router-link>
         </li>
         <base-dropdown tag="li" class="nav-item">
           <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
@@ -55,7 +55,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link nav-link-icon" href="#"
+          <a class="nav-link nav-link-icon" href="https://github.com/idesignzone/shablon"
              target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
             <i class="fa fa-github"></i>
             <span class="nav-link-inner--text d-lg-none">Github</span>
@@ -64,15 +64,15 @@
         <locale-dropdown />
         <li class="nav-item d-none d-lg-block ml-lg-4">
           <template v-if="authenticated">
-            <router-link :to="{ name: 'dashboard' }" class="btn btn-neutral btn-icon btn-sm text-uppercase">
+            <router-link :to="{ name: 'dashboard' }" class="btn btn-neutral btn-sm text-uppercase">
               {{ $t('dashboard') }}
             </router-link>
           </template>
           <template v-else>
-            <router-link :to="{ name: 'login' }" class="btn btn-neutral btn-icon">
+            <router-link :to="{ name: 'login' }" class="btn btn-neutral btn-sm text-uppercase">
               {{ $t('login') }}
             </router-link>
-            <router-link :to="{ name: 'register' }" class="btn btn-outline-neutral btn-icon">
+            <router-link :to="{ name: 'register' }" class="btn btn-outline-neutral btn-sm text-uppercase">
               {{ $t('register') }}
             </router-link>
           </template>

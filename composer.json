@@ -1,6 +1,6 @@
 {
-    "name": "cretueusebiu/laravel-vue-spa",
-    "description": "A Laravel-Vue SPA starter project template.",
+    "name": "idesignzone/shablon",
+    "description": "A Laravel-vue starter template",
     "keywords": ["spa", "laravel", "vue"],
     "license": "MIT",
     "type": "project",
