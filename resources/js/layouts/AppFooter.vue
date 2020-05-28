@@ -58,14 +58,8 @@
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="#" class="nav-link" target="_blank" rel="noopener">iDesignzone</a>
-                        </li>
-                        <li class="nav-item">
                             <a href="#" class="nav-link" target="_blank" rel="noopener">About
                                 Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" target="_blank" rel="noopener">Blog</a>
                         </li>
                         <li class="nav-item">
                             <a href="#"

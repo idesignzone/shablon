@@ -12,7 +12,7 @@
             <span class="span-50"></span>
             <span class="span-100"></span>
         </div>
-        <div class="container shape-container d-flex align-items-center">
+        <div class="container shape-container d-flex align-items-center pt-12 pb-12">
             <div class="col px-0">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg">
@@ -20,19 +20,16 @@
                       <h1><i class="fa fa-palette text-primary"></i> <span class="font-weight-900 text-white">Shablon</span></h1>
                         <p class="lead text-white mt-4 mb-5">A beautiful Design System for Bootstrap 4. It's Free and Open Source.</p>
                         <div class="btn-wrapper">
+                          <router-link to="/" class="btn btn-info text-uppercase">
+                            <i class="fa fa-code"></i>
+                            Landing
+                          </router-link>
                             <base-button tag="a"
                                          href="#"
-                                         class="mb-3 mb-sm-0"
-                                         type="info"
-                                         icon="fa fa-code">
-                                Landing
-                            </base-button>
-                            <base-button tag="a"
-                                         href="#"
-                                         class="mb-3 mb-sm-0"
+                                         class="mb-3 mb-sm-0 text-uppercase"
                                          type="white"
                                          icon="ni ni-cloud-download-95">
-                                Download Shablon
+                                Download
                             </base-button>
                         </div>
                     </div>
@@ -41,7 +38,7 @@
                     <div class="col-sm-4">
                         <span class="text-white alpha-7 ml-3">Star us on</span>
                         <a href="https://github.com/idesignzone/shablon" target="_blank" title="Support us on Github">
-                            <img src="img/brand/github-white-slim.png" style="height: 22px; margin-top: -3px">
+                            <img src="img/brand/github-white-slim.png" style="height: 26px; margin-top: -3px">
                         </a>
                     </div>
                     <div class="col-sm-4 mt-4 mt-sm-0 text-right">

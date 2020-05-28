@@ -3,13 +3,13 @@
     <base-nav class="navbar-main navbar-light" transparent type="" effect="light" expand>
       <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
 <!--        <img :src="logo" class="navbar-brand-img" alt="...">-->
-        <h2 class="text-white mt-2"><i class="fa fa-palette d-inline text-primary text-xl"></i> Shablon</h2>
+        <h2 class="navbar-brand-text mt-2"><i class="fa fa-palette d-inline text-primary text-xl"></i> Shablon</h2>
       </router-link>
       <div class="row" slot="content-header" slot-scope="{closeMenu}">
         <div class="col-6 collapse-brand">
           <a href="#">
 <!--            <img :src="logo">-->
-            <h2><i class="fa fa-palette d-inline text-primary text-xl"></i> Shablon</h2>
+            <h2><i class="fa fa-palette d-inline text-primary"></i> Shablon</h2>
           </a>
         </div>
         <div class="col-6 collapse-close">
@@ -19,17 +19,17 @@
 
       <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
         <li class="nav-item">
-          <router-link to="/components" class="nav-link">Components</router-link>
+          <router-link to="/components" class="nav-link"><i class="fa fa-swatchbook d-lg-none"></i>  <span class="nav-link-inner--text">Components</span></router-link>
         </li>
         <base-dropdown tag="li" class="nav-item">
           <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
-            <i class="ni ni-collection d-lg-none"></i>
-            <span class="nav-link-inner--text">Examples</span>
+            <i class="fa fa-list d-lg-none"></i>
+            <span class="nav-link-inner--text">Dropdown</span>
           </a>
-          <router-link to="/landing" class="dropdown-item">Landing</router-link>
-          <router-link to="/profile" class="dropdown-item">Profile</router-link>
-          <router-link to="/login" class="dropdown-item">Login</router-link>
-          <router-link to="/register" class="dropdown-item">Register</router-link>
+          <router-link to="#" class="dropdown-item">Item 1</router-link>
+          <router-link to="#" class="dropdown-item">Item 2</router-link>
+          <router-link to="#" class="dropdown-item">Item 3</router-link>
+          <router-link to="#" class="dropdown-item">Item 4</router-link>
         </base-dropdown>
       </ul>
       <ul class="navbar-nav align-items-lg-center ml-lg-auto">
@@ -83,9 +83,9 @@
 </template>
 <script>
 import { mapGetters } from 'vuex'
-import LocaleDropdown from '~/components/LocaleDropdown'
 import BaseNav from '~/components/Navigation/BaseNav'
 import BaseDropdown from '~/components/BaseDropdown'
+import LocaleDropdown from '~/components/LocaleDropdown'
 import CloseButton from '~/components/Navigation/CloseButton'
 export default {
   name: 'app-header',

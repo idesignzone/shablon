@@ -1,7 +1,7 @@
 <template>
     <div>
         <!-- Typography -->
-        <h2 class="mt-lg mb-5">
+        <h2 class="mt-5 mb-5">
             <span>Typography</span>
         </h2>
         <h3 class="h4 text-success font-weight-bold">Headings</h3>
@@ -54,7 +54,7 @@
             </div>
         </div>
         <!-- Display titles -->
-        <h3 class="h4 text-success font-weight-bold mt-md">Display titles</h3>
+        <h3 class="h4 text-success font-weight-bold mt-5">Display titles</h3>
         <div class="row py-3 align-items-center">
             <div class="col-sm-3">
                 <small class="text-uppercase text-muted font-weight-bold">Display 1</small>
@@ -88,7 +88,7 @@
             </div>
         </div>
         <!-- Specialized titles -->
-        <h3 class="h4 text-success font-weight-bold mt-md">Specialized titles</h3>
+        <h3 class="h4 text-success font-weight-bold mt-5">Specialized titles</h3>
         <div class="row py-3 align-items-center">
             <div class="col-sm-3">
                 <small class="text-uppercase text-muted font-weight-bold">Heading</small>
@@ -118,7 +118,7 @@
             </div>
         </div>
         <!-- Paragraphs -->
-        <h3 class="h4 text-success font-weight-bold mt-md">Paragraphs</h3>
+        <h3 class="h4 text-success font-weight-bold mt-5">Paragraphs</h3>
         <div class="row py-3 align-items-center">
             <div class="col-sm-3">
                 <small class="text-uppercase text-muted font-weight-bold">Paragraph</small>

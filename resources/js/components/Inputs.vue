@@ -12,21 +12,21 @@
 
                     </base-input>
                     <base-input placeholder="Search"
-                                addon-left-icon="ni ni-zoom-split-in">
+                                addon-left-icon="fa fa-search-plus">
                     </base-input>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <base-input placeholder="Regular" disabled>
                     </base-input>
                     <base-input placeholder="Birthday"
-                                addon-right-icon="ni ni-zoom-split-in">
+                                addon-right-icon="fa fa-birthday-cake">
                     </base-input>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <base-input placeholder="Success" :valid="true">
                     </base-input>
 
-                    <base-input placeholder="Success" :valid="false">
+                    <base-input placeholder="Error" :valid="false">
                     </base-input>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                         </base-input>
                         <base-input alternative
                                     placeholder="Search"
-                                    addon-left-icon="ni ni-zoom-split-in">
+                                    addon-left-icon="fa fa-search-plus">
                         </base-input>
                     </div>
                     <div class="col-lg-4 col-sm-6">
@@ -54,7 +54,7 @@
                         </base-input>
                         <base-input alternative
                                     placeholder="Birthday"
-                                    addon-right-icon="ni ni-zoom-split-in">
+                                    addon-right-icon="fa fa-birthday-cake">
                         </base-input>
                     </div>
                     <div class="col-lg-4 col-sm-6">

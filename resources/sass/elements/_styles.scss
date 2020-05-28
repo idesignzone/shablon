@@ -17077,6 +17077,15 @@ a.btn-icon-only
   }
 }
 
+.navbar-brand-text
+{
+  font-size: 22px;
+  color: white;
+}
+.collapse-brand h2 {
+  font-size: 18px;
+}
+
 .navbar-vertical.navbar-expand-xs.fixed-left + .main-content
 {
   margin-left: 250px;
@@ -17572,13 +17581,13 @@ textarea[resize='horizontal']
 .has-success:after,
 .has-danger:after
 {
-  font-family: 'NucleoIcons';
-  font-size: 9px;
+  font-family: 'Font Awesome 5 Free';
+  font-size: 20px;
   line-height: 19px;
 
   position: absolute;
   top: 2px;
-  right: 15px;
+  right: 9px;
 
   display: inline-block;
 
@@ -17594,7 +17603,7 @@ textarea[resize='horizontal']
 
 .has-success:after
 {
-  content: '\ea26';
+  content: '\f058';
 
   color: daken(#2dce89, 18%);
   background-color: #69deac;
@@ -17623,7 +17632,7 @@ textarea[resize='horizontal']
 
 .has-danger:after
 {
-  content: '\ea53';
+  content: '\f057';
 
   color: daken(#fb6340, 18%);
   background-color: #fda08b;
@@ -19857,7 +19866,7 @@ html:not([dir='rtl']) .noUi-horizontal .noUi-handle
 
 html:not([dir='rtl']) .noUi-horizontal .noUi-handle
 {
-  right: -10px;
+  right: -15px;
 }
 
 .noUi-vertical
@@ -19874,7 +19883,7 @@ html:not([dir='rtl']) .noUi-horizontal .noUi-handle
 .noUi-horizontal .noUi-handle,
 .noUi-vertical .noUi-handle
 {
-  top: -5px;
+  top: -10px;
 
   width: 15px;
   height: 15px;

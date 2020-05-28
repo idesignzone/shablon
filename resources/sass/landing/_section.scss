@@ -50,8 +50,6 @@
 
         +.container {
             position: relative;
-            padding-top: 10rem;
-            padding-bottom: 16rem;
             height: 100%;
         }
 
@@ -215,6 +213,8 @@
 
         :nth-child(1) {
           position: absolute;
+          width: 100px;
+          height: 100px;
           animation: jump 8s infinite linear;
           left: 3%;
           bottom: auto;
@@ -223,6 +223,8 @@
 
         :nth-child(2) {
           position: absolute;
+          width: 120px;
+          height: 120px;
           animation: animationFramesTwo 13s infinite linear;
           right: 4%;
           top: 10%;
@@ -231,6 +233,8 @@
 
         :nth-child(3) {
           position: absolute;
+          width: 100px;
+          height: 100px;
           animation: animationFramesFour 25s alternate infinite linear;
           top: 30%;
           left: 13%;
@@ -239,6 +243,8 @@
 
         :nth-child(4) {
           position: absolute;
+          width: 160px;
+          height: 160px;
           animation: animationFramesThree 35s alternate infinite linear;
           top: 30%;
           right: 48%;
@@ -247,6 +253,8 @@
 
         :nth-child(5) {
           position: absolute;
+          width: 120px;
+          height: 120px;
           animation: animationFramesFour 20s alternate infinite linear;
           top: 67%;
           right: 30%;
@@ -267,6 +275,8 @@
 
         :nth-child(7) {
           position: absolute;
+          width: 240px;
+          height: 240px;
           animation: animationFramesFour 20s alternate infinite linear;
           bottom: 50%;
           left: 36%;
@@ -275,6 +285,8 @@
 
         :nth-child(8) {
           position: absolute;
+          width: 180px;
+          height: 180px;
           animation: animationFramesOne 17s infinite linear;
           bottom: 70px;
           left: 4%;
@@ -283,6 +295,8 @@
 
         :nth-child(9) {
           position: absolute;
+          width: 100px;
+          height: 100px;
           animation: animationFramesOne 20s alternate infinite linear;
           top: 5%;
           left: 57%;
@@ -291,6 +305,8 @@
 
         :nth-child(10) {
           position: absolute;
+          width: 140px;
+          height: 140px;
           animation: animationFramesOne 15s infinite linear;
           bottom: 50%;
           left: 1%;

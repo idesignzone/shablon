@@ -69,7 +69,7 @@ $colors: map-merge((
 
 $default:       #172b4d !default;
 $primary:       #5e72e4 !default;
-$secondary:     #f7fafc !default;
+$secondary:     #f4f5f7 !default;
 $success:       $green !default;
 $info:          $teal !default;
 $warning:       $orange !default;
@@ -174,9 +174,6 @@ $shapes-dark-colors: map-merge((
   "span-5-bg":                  #008169
 ), $shapes-dark-colors);
 
-
-// Translucent color variations
-$translucent-color-opacity: .6 !default;
 
 // Set a specific jump point for requesting color jumps
 $theme-color-interval:      8% !default;
@@ -404,6 +401,29 @@ $icon-size: 3rem !default;
 $icon-size-xl: 5rem !default;
 $icon-size-lg: 4rem !default;
 $icon-size-sm: 2rem !default;
+
+
+// Tables
+
+$table-cell-padding:          1rem !default;
+$table-cell-padding-sm:       .3rem !default;
+
+$table-bg:                    transparent !default;
+$table-accent-bg:             rgba($black, .05);
+$table-hover-bg:              rgba($black, .075);
+$table-active-bg:             $table-hover-bg !default;
+
+$table-border-width:          $border-width !default;
+$table-border-color:          $gray-300 !default;
+
+$table-head-bg:               $gray-200 !default;
+$table-head-color:            $gray-700 !default;
+
+$table-dark-bg:               $gray-900 !default;
+$table-dark-accent-bg:        rgba($white, .05);
+$table-dark-hover-bg:         rgba($white, .075);
+$table-dark-border-color:     lighten($gray-900, 7.5%);
+$table-dark-color:            $body-bg !default;
 
 
 // Buttons + Forms
@@ -637,7 +657,7 @@ $navbar-nav-link-font-weight:       400 !default;
 $navbar-nav-link-text-transform:    normal !default;
 $navbar-nav-link-letter-spacing:    0 !default;
 $navbar-nav-link-border-radius:     $border-radius !default;
-$input-group-addon-focus-bg:        transparent !default;
+
 $navbar-dark-bg:                    transparent !default;
 $navbar-dark-hover-bg:              rgba(255, 255, 255, .1);
 $navbar-dark-active-bg:             rgba(255, 255, 255, .1);
@@ -654,7 +674,7 @@ $navbar-light-color:                rgba($black, .5);
 $navbar-light-hover-color:          rgba($black, .7);
 $navbar-light-active-color:         rgba($black, .9);
 $navbar-light-disabled-color:       rgba($black, .3);
-$navbar-light-toggler-icon-bg:      str-replace(url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
+$navbar-light-toggler-icon-bg:      str-replace(url("data:image/svg+xml !default;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-light-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
 $navbar-light-toggler-border-color: transparent !default;
 
 
@@ -866,6 +886,7 @@ $footer-link-color: $gray-600 !default;
 $footer-link-hover-color: $gray-700 !default;
 $footer-heading-color: $gray-600 !default;
 $footer-heading-font-size: $font-size-sm !default;
+
 
 // Dashboard
 
