@@ -10,11 +10,48 @@
 | ---  | --- |
 | [![Shablon Landing](http://shablon.idesignzone.com/img/theme/landing-showcase.png)](http://shablon.idesignzone.com) | [![Shablon Dashboard](http://shablon.idesignzone.com/img/theme/dashboard-showcase.png)](http://shablon.idesignzone.com/dashboard) |
 
+## Features
+- Laravel 7
+- Vue + VueRouter + Vuex + VueI18n + ESlint
+- Pages with dynamic import and custom layouts
+- Login, register, email verification and password reset
+- Authentication with JWT
+- Socialite integration
+- Bootstrap 4 + Font Awesome 5
+
 ## Quick start
 
 - [Download from Github](https://github.com/idesignzone/shablon/archive/master.zip).
 - Clone the repository: `git clone https://github.com/idesignzone/shablon.git`.
 
+## Installation
+- `composer create-project --prefer-dist cretueusebiu/laravel-vue-spa`
+- Edit `.env` and set your database connection details
+- (When installed via git clone or download, run `php artisan key:generate` and `php artisan jwt:secret`)
+- `php artisan migrate`
+- `npm install`
+
+## Usage
+
+#### Development
+
+```bash
+# build and watch
+npm run watch
+
+# serve with hot reloading
+npm run hot
+```
+
+#### Production
+
+```bash
+npm run production
+```
+
+## Email Verification
+
+To enable email verification make sure that your `App\User` model implements the `Illuminate\Contracts\Auth\MustVerifyEmail` contract.
 
 ## Browser Support
 
