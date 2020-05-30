@@ -18924,34 +18924,9 @@ textarea[resize='horizontal']
   justify-content: space-between;
 }
 
-.progress-label span
-{
-  font-size: .625rem;
-  font-weight: 600;
-
-  display: inline-block;
-
-  padding: .25rem 1rem;
-
-  text-transform: uppercase;
-
-  color: #5e72e4;
-  border-radius: 30px;
-  background: rgba(94, 114, 228, .1);
-}
-
 .progress-percentage
 {
   text-align: right;
-}
-.progress-percentage span
-{
-  font-size: .875rem;
-  font-weight: 600;
-
-  display: inline-block;
-
-  color: #8898aa;
 }
 
 .separator
