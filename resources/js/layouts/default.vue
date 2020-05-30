@@ -4,9 +4,6 @@
       <side-bar :background-color="sidebarBackground" short-title="Argon" title="Argon">
         <template slot="links">
           <sidebar-item :link="{name: 'Dashboard', icon: 'fa fa-tachometer-alt text-primary', path: '/dashboard'}"/>
-          <sidebar-item :link="{name: 'User Profile', icon: 'fa fa-user-circle text-yellow', path: '/settings/profile'}"/>
-          <sidebar-item :link="{name: 'Login', icon: 'fa fa-sign-in-alt text-info', path: '/login'}"/>
-          <sidebar-item :link="{name: 'Register', icon: 'fa fa-user-plus text-pink', path: '/register'}"/>
         </template>
       </side-bar>
       <div class="main-content" :data="sidebarBackground">

@@ -88,9 +88,27 @@
                 <!--Navigation-->
                 <ul class="navbar-nav mb-md-3">
                   <li class="nav-item">
+                    <a class="nav-link"
+                       href="#">
+                      <i class="fa fa-check"></i> Item 1
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link"
+                       href="#">
+                      <i class="fa fa-check"></i> Item 2
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link"
+                       href="#">
+                      <i class="fa fa-check"></i> Item 3
+                    </a>
+                  </li>
+                  <li class="nav-item">
                     <a class="nav-link" href="#navbar-examples" data-toggle="collapse" role="button" aria-expanded="true" aria-controls="navbar-examples">
                       <i class="fa fa-caret-square-down" style="color: #f4645f;"></i>
-                      <span class="nav-link-text" style="color: #f4645f;">Dropdown</span>
+                      <span class="nav-link-text">Dropdown</span>
                     </a>
 
                     <div class="collapse" id="navbar-examples">
@@ -108,24 +126,6 @@
                       </ul>
                     </div>
                   </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                           href="#">
-                            <i class="fa fa-check"></i> Item 1
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                           href="#">
-                            <i class="fa fa-check"></i> Item 2
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link"
-                           href="#">
-                            <i class="fa fa-check"></i> Item 3
-                        </a>
-                    </li>
                 </ul>
             </div>
             </div>
