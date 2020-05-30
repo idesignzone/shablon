@@ -32,5 +32,4 @@ At present, we officially aim to support the last two versions of the following 
 ## Licensing
 
 - Copyright 2020 iDesignzone (https://github.com/idesignzone/shablon/master/README.md)
-
 - Licensed under MIT (https://github.com/idesignzone/shablon/blob/master/LICENSE)
